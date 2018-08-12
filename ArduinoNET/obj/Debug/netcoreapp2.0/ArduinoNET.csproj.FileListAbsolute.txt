@@ -1,0 +1,11 @@
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\bin\Debug\netcoreapp2.0\ArduinoNET.deps.json
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\bin\Debug\netcoreapp2.0\ArduinoNET.runtimeconfig.json
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\bin\Debug\netcoreapp2.0\ArduinoNET.runtimeconfig.dev.json
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\bin\Debug\netcoreapp2.0\ArduinoNET.dll
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\bin\Debug\netcoreapp2.0\ArduinoNET.pdb
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\obj\Debug\netcoreapp2.0\ArduinoNET.csprojAssemblyReference.cache
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\obj\Debug\netcoreapp2.0\ArduinoNET.csproj.CoreCompileInputs.cache
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\obj\Debug\netcoreapp2.0\ArduinoNET.AssemblyInfoInputs.cache
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\obj\Debug\netcoreapp2.0\ArduinoNET.AssemblyInfo.cs
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\obj\Debug\netcoreapp2.0\ArduinoNET.dll
+C:\Users\eroxy\source\repos\ArduinoNET\ArduinoNET\obj\Debug\netcoreapp2.0\ArduinoNET.pdb
